@@ -1,0 +1,25 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Typodermic', arial;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+h3 {
+  color: #30475e;
+  font-family: 'Typodermic', arial;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+hr {
+  border-style: none;
+  background-color: white;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
